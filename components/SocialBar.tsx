@@ -6,7 +6,7 @@ import { FiGithub, FiLinkedin, FiInstagram, FiMail } from "react-icons/fi"
 const LINKS = [
   { label: "GitHub",    href: "https://github.com/mughisqarratal",       icon: <FiGithub size={16} /> },
   { label: "LinkedIn",  href: "https://www.linkedin.com/in/cutqarratalmughis/",  icon: <FiLinkedin size={16} /> },
-  { label: "Instagram", href: "https://www.instagram.com/mughis.tjoet",    icon: <FiInstagram size={16} /> },
+  { label: "Instagram", href: "https://www.instagram.com/mughis.tjoet_",    icon: <FiInstagram size={16} /> },
   { label: "Email",     href: "mailto:cutqarratalmughis@gmail.com",             icon: <FiMail size={16} /> },
 ];
 
