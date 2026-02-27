@@ -66,7 +66,7 @@ export default function Home() {
               className="text-xs text-[var(--teal)]"
               style={{ fontFamily: "var(--font-body)" }}
             >
-              Made by Tjoet_Kara
+              Made by Myself
             </span>
           </div>
         </div>
