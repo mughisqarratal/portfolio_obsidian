@@ -4,10 +4,10 @@ import { Home, Briefcase, FolderOpen, GraduationCap, Award, Wrench } from "lucid
 
 const NAV_ITEMS = [
   { id: "hero",          label: "Home",          icon: <Home size={16} /> },
-  { id: "experience",    label: "Experience",    icon: <Briefcase size={16} /> },
+  { id: "experience",    label: "Experiences",    icon: <Briefcase size={16} /> },
   // { id: "projects",      label: "Projects",      icon: <FolderOpen size={16} /> },
   { id: "education",     label: "Education",     icon: <GraduationCap size={16} /> },
-  { id: "certification", label: "Certification", icon: <Award size={16} /> },
+  { id: "certification", label: "Certifications", icon: <Award size={16} /> },
   { id: "skills",        label: "Skills",        icon: <Wrench size={16} /> },
 ];
 

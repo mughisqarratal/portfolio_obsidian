@@ -2,7 +2,7 @@ import SectionHeader from "./SectionHeader";
 
 
 const CERTS = [
-  { title: "Microsoft Certified: Azure AI Fundamentals", issuer: "Micrososft",
+  { title: "Microsoft Certified: Azure AI Fundamentals", issuer: "Microsoft",
     date: "June 2024", credentialId: "XeJw-XMpE",
     gdrive: "https://drive.google.com/file/d/1tQuJo7CqB0AuvDAFS2S_UvtGX00yFyqw/view" },
   { title: "Microsoft Office Specialist: Word 2019 Associate", issuer: "Microsoft",
@@ -40,7 +40,7 @@ export default function CertificationSection() {
                 <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor">
                   <path d="M6.28 3l5.72 9.9L3.57 21H1l8.57-14.85L6.28 3zm2.57 0H22.5l-5.24 9H8.85L8.85 3zm7.15 9.9l-5.24 9H22.5l-5.24-9z"/>
                 </svg>
-                Lihat Sertifikat
+                View Certificates
               </a>
             </div>
           ))}
