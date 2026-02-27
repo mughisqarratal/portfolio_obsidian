@@ -34,6 +34,7 @@ const TOOLS_Technology = [
   "Next.js",
   "React",
   "Tailwind CSS",
+  "Convolutional Neural Networks (CNN)",
 ];
 const QA_SKILLS = [
   "Manual Testing",
