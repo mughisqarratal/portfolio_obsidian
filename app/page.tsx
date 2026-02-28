@@ -55,7 +55,7 @@ export default function Home() {
       >
         <div className=" flex flex-col sm:flex-row items-center justify-between gap-1">
           <p
-            className="text-xs sm:text-sm text-[var(--text-3)]"
+            className="text-xs sm:text-sm font-medium text-[var(--text-3)]"
             style={{ fontFamily: "var(--font-body)" }}
           >
             &copy; {new Date().getFullYear()}. All rights reserved.
@@ -63,7 +63,7 @@ export default function Home() {
           <div className="flex items-center gap-1">
             <span className="w-1.5 h-1.5 rounded-full bg-[var(--teal)] animate-pulse" />
             <span
-              className="text-xs text-[var(--teal)]"
+              className="text-xs animate-pulse text-[var(--teal)]"
               style={{ fontFamily: "var(--font-body)" }}
             >
               Made by Myself

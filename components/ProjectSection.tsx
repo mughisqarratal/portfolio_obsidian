@@ -4,7 +4,7 @@
 // const PROJECTS = [
 //   { type: "WordPress", title: "Toko Online Fashion", year: "2024",
 //     desc: "Custom WooCommerce store dengan tema unik, filter produk dinamis, dan payment gateway lokal. Diuji end-to-end sebelum launch.",
-//     tags: ["WooCommerce", "Custom Theme", "PHP"], link: "#" },
+//     tags: ["WooCommerce", "Custom Theme", "PHP"] },
 //   { type: "QA", title: "Automation Suite — SaaS App", year: "2024",
 //     desc: "Test suite otomatis dengan Cypress untuk aplikasi SaaS B2B, coverage 80%+ fitur utama termasuk edge case.",
 //     tags: ["Cypress", "JavaScript", "CI/CD"], link: "#" },
@@ -71,7 +71,7 @@
 //                       style={{ fontFamily: "var(--font-body)" }}>{tag}</span>
 //                   ))}
 //                 </div>
-//                 <div className="mt-3 text-[var(--text-3)] group-hover:text-[var(--teal)] text-sm transition-colors">→</div>
+//                 <div className="mt-3 text-[var(--text-3)] group-hover:text-[var(--teal)] text-sm transition-colors"></div>
 //               </a>
 //             );
 //           })}
