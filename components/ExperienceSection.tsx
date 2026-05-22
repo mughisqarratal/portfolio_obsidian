@@ -13,6 +13,11 @@ const EXPERIENCES = [
       "Manual Testing",
       "API Testing",
       "Test Case Design",
+      "Functional Testing",
+      "Regression Testing",
+      "Smoke Testing",
+      "User Acceptance Testing",
+      "App Release Approval",
     ],
   },
   {
