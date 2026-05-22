@@ -5,7 +5,7 @@ const EXPERIENCES = [
   {
     role: "Quality Assurance Tester",
     company: "PT. Kreasindo Karya Abadi",
-    period: "Mar 2025 — Present",
+    period: "Mar 2025 — Apr 2026",
     type: "Full-time",
     desc: "Collaborated with cross-functional teams including UI/UX, Web & Mobile Developers, and Product Managers to design and execute test cases, manage bug reporting and verification, ensure comprehensive API test coverage, and oversee application release approvals for the Google Play Store and App Store.",
     tags: [
